@@ -7,4 +7,4 @@ tags: [casual]
 
 # I made uploaded this post today.
 
-Neew blog with github??
+New blog with github??
