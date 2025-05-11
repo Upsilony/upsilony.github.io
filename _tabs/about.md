@@ -4,5 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hii all!! I'm Upsilony. 👋🏻
+
+I'm from South Korea and Coding Beginner. I play Geometry Dash, I own Upsilon GDPS.
