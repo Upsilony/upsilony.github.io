@@ -1,0 +1,11 @@
+---
+title: "Welcome."
+date: 2025-05-11 13:20:00 +0800
+categories: [Casual]
+tags: [casual]
+---
+
+#### Welcome to my blog.
+
+New blog with github. The old blog is here.
+https://upsilonyblog.simdif.com
